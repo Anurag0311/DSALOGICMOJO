@@ -44,7 +44,8 @@ public class FourSum {
         int n = array.length; 
         int sum = 7; 
         ArrayList<String> mlist = new ArrayList<String>();
-        System.out.println(FourSumProblem(array, n, sum,mlist)); 
+        System.out.println(FourSumProblem(array, n, sum,mlist));  
+        
     } 
 } 
 
